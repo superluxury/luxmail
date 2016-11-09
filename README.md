@@ -81,7 +81,7 @@ On mobile Gmail, sometimes images will appear to grow in size while the text and
 </table>
 ````
 
-Insert Paragraph Tags
+### Insert Paragraph Tags
 
 Some versions of outlook will wrap text in a `<p>` tag if it is not wrapped in a block level text element, such as `<p>`, `<h1>`, `<li`>. This happens even inside of `<td>`. These `<p>` tags might display with a margin, which can cause unexpected spaces in the design.
 
