@@ -2,7 +2,7 @@
 
 A template for creating HTML emails.
 
-##Instructions
+## Instructions
 
 Party like it's 1999 -- build out the email using nested tables. No javascript and no linked CSS files.
 
@@ -11,9 +11,9 @@ In fact, even CSS in the head is prone to not work in many mail clients. Inline 
 Mailchimp provides a great tool for converting all CSS to inline:
 https://templates.mailchimp.com/resources/inline-css/
 
-##Tips and Tricks
+## Tips and Tricks
 
-###Nested Tables with Default Fonts
+### Nested Tables with Default Fonts
 Many versions of outlook break inheritance for font related ruless when tables are nested. Take the following code for example:
 
 ```html
